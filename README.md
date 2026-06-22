@@ -70,7 +70,8 @@ This project analyzes customer shopping behavior using Python, SQL, and Power BI
 
 ## Dashboard Preview
 
-Add your dashboard screenshot here.
+<img width="625" height="361" alt="image" src="https://github.com/user-attachments/assets/cb6cad2c-3158-4716-827f-a101f0ff05cc" />
+
 
 ## Project Files
 
